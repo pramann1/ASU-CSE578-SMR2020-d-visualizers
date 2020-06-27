@@ -1,4 +1,5 @@
-# Arizona State University
+![(/assets/images/asu.png "ASU Ira A. Fulton Schools of Engineering")]
+
 ## CSE578: Data Visualization
 ### Team 10 d-visualizers
 
@@ -15,3 +16,4 @@ Requirements:
 - [Pandas](https://pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [seaborn](https://seaborn.pydata.org/)
+- [jupyter](https://jupyter.org/)
