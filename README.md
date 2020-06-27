@@ -1,4 +1,4 @@
-![ASU Ira A. Fulton Schools of Engineering](assets/images/asu.png "ASU Ira A. Fulton Schools of Engineering")
+(assets/images/asu.png "ASU Ira A. Fulton Schools of Engineering")
 
 ## CSE578: Data Visualization
 ### Team 10 d-visualizers
