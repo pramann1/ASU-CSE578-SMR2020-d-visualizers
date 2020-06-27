@@ -15,3 +15,4 @@ Requirements:
 - [Pandas](https://pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [seaborn](https://seaborn.pydata.org/)
+- [jupyter](https://jupyter.org/)
